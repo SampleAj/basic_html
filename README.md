@@ -6,7 +6,7 @@ other sample file
 
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-<p>My 2nd paragraph.</p>
+  <p><b>My 2nd paragraph.</b></p>
 
 </body>
 </html>
